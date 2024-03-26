@@ -4,7 +4,7 @@ This application is built using the Spring Boot framework, simplifying Java-base
 ## Description
 A Simple Spring MVC app with no hypermedia. What is built is described as RPC (Remote Procedure Call).
 
-It includes the following dependencies:
+It is built with Maven and includes the following dependencies:
   - Web
   - JPA
   - H2
