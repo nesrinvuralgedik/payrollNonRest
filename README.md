@@ -15,6 +15,7 @@ Then it uses the Spring MVC as a web layer.
 ## Usage
 Once the application is running, you can use the following endpoints to interact with the user data:
 
+http://localhost:8080/
 - `GET /employees`: Retrieve a list of all employees.
 - `GET /employees/{id}`: Retrieve a specific employee by ID.
 - `POST /employees`: Create a new employee.
