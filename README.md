@@ -8,6 +8,7 @@ It includes the following dependencies:
   - Web
   - JPA
   - H2
+
 A simple payroll service that manages the employees of a company. It stores employee objects in a (H2 in-memory) database and accesses them via JPA.
 Then it uses the Spring MVC as a web layer.
 
