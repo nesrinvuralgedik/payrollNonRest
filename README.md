@@ -2,7 +2,7 @@
 This application is built using the Spring Boot framework, simplifying Java-based application development.
 
 ## Description
-A Simple Spring MVC app with no hypermedia. What is built is described as RPC (Remote Procedure Call).
+A Simple Spring MVC app with no hypermedia. What is built is described as RPC (Remote Procedure Call). Clients MUST hard code URIs to navigate the API.
 
 It is built with Maven and includes the following dependencies:
   - Web
